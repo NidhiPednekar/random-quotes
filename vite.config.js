@@ -44,5 +44,5 @@ export default defineConfig({
       }
     })
   ],
-  base: '/random-quotes-machine/' // Important for GitHub Pages
+  base: '/random-quotes/' // Important for GitHub Pages
 })
